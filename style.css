@@ -1,0 +1,63 @@
+body {
+  font-family: "Sansita Swashed", cursive;
+  background-color: rgb(21, 146, 195);
+}
+h1 {
+  background-color: brown;
+}
+
+#pic {
+  background-color: rgb(23, 38, 90);
+}
+hr {
+  color: black;
+}
+#sam {
+  background-color:  rgb(21, 146, 195);
+}
+#sam2 {
+  background-color: rgb(21, 146, 195);
+}
+#sam3 {
+  background-color: rgb(21, 146, 195);
+}
+#sam4 {
+  background-color: rgb(21, 146, 195);
+  font-size: large;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+ol {
+  display: flex;
+  flex-direction: column;
+}
+#sam6{background-color:red ;}
+#sam7{background-color: rgb(21, 146, 195);}
+#sam8{background-color: red;}
+#sam9{background-color: rgb(21, 146, 195);}
+#sam10{background-color: red;}
+#sam11{background-color: rgb(21, 146, 195);}
+#sam12{background-color: red;}
+#sam13{background-color: rgb(21, 146, 195);}
